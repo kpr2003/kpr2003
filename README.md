@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @kpr2003
-- 💞️ I’m looking to collaborate on systems.
-- 📫 discord - cryp37589241
+
